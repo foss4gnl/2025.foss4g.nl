@@ -38,6 +38,7 @@ Edit CNAME in root dir and change to 2023.foss4g.nl
   
 ![image](https://github.com/foss4gnl/2024.foss4g.nl/assets/582630/64d6f5ec-56b4-4c12-95d9-5b983f6af0a0)
 
+* GitHub: same for https://github.com/foss4gnl/2023.foss4g.nl/settings/pages setting custom domain to 2023.foss4g.nl.
 
 That's it!
 
