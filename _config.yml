@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor/bundle']
 
 
 # Site Settings
-title: "FOSS4GNL 2023"
+title: "FOSS4GNL 2024"
 email: "foss4g@osgeo.nl"
-description: "FOSS4GNL conference website 2023"
+description: "FOSS4GNL conference website 2024"
 baseurl: ""
 url: "https://foss4g.nl"
 permalink: "/blog/:title"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://osgeo.nl/"
 
 # Head
-metaKeywords: "event, osgeo, conferentie, open source, geo, gis, middelburg, geographic, nederland"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, baarle hertog, geographic, nederland, belgië, osgeo-be, osgeonl"
 twitterAccount: "@osgeonl"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
@@ -42,16 +42,16 @@ navigationLinks:
 # - {permalink: "/photos/", text: "Foto's"}
  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
-#  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2023-671614857117", text: "Aanmelden"}
+#  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2024-671614857117", text: "Aanmelden"}
 #  - {link: "https://foss4g.nl", text: "Presentaties"}
 rightNavigationButtons:
-  #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2023-671614857117", text: "Aanmelden"}
+  #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2024-671614857117", text: "Aanmelden"}
   #- {link: "https://foss4g.nl", text: "Presentaties"}
 
 # About Block
-aboutTitle: "Over FOSS4GNL 2023"
+aboutTitle: "Over FOSS4GNL 2024"
 aboutBlock:
-# - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2023"}
+# - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2024"}
 
 # Statistic Block
 statisticBlockImage: "delft_ahn3.jpg"
@@ -69,13 +69,13 @@ locationBlockTitle: "Locatie"
 eventLocationName: "Koorkerk en Abdij"
 eventLocationLink: ""
 eventStreetAddress: ""
-eventAddressLocality: "Middelburg"
-eventAddressLocalityRegion: "Zeeland"
+eventAddressLocality: "Baarle Hertog"
+eventAddressLocalityRegion: "Noord Brabant"
 eventPostalCode: ""
 eventAddressCountry: "Nederland"
-eventStartTime: "2023-09-13T10:00"
+eventStartTime: "2024-09-26T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2023-09-14T18:00"
+eventEndTime: "2024-09-26T18:00"
 eventPlaceCoordinates: "51.50053, 3.61473"
 eventPlaceLongitude: 3.61473
 eventPlaceLatitude: 51.50053
@@ -129,6 +129,7 @@ footerBlocks:
    - {link: "https://2018.foss4g.nl", text: "FOSS4GNL 2018"}
    - {link: "https://2019.foss4g.nl", text: "FOSS4GNL 2019"}
    - {link: "https://2021.foss4g.nl", text: "FOSS4GNL 2021"}
+   - {link: "https://2023.foss4g.nl", text: "FOSS4GNL 2023" }
  -
   title: "Contact"
   links:
