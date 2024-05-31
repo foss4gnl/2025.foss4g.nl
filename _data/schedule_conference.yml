@@ -1,0 +1,96 @@
+- 
+  date: "2023-09-14"
+  dateReadable: "14 september"
+  title: "Conferentieprogramma 14 september"
+  tracks: 
+    - {title: "Beleid & QGIS", color: "#90be4e"}
+    - {title: "3D, RS & CRS", color: "#e91e63"}
+    - {title: "Py, edu & carto", color: "#03a9f4"}
+    - {title: "OSPO's en OSS", color: "#6326ff"}
+    - {title: "Energiegevers", color: "#63ddbb"}
+  timeslots:
+    - {
+      startTime: "9:00",
+      endTime: "9:30",
+      sessionIds: [800]
+    }
+    - {
+      startTime: "9:30",
+      endTime: "10:00",
+      sessionIds: [801]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [901]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:15",
+      sessionIds: [124,121,107,101,999]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [120,127,104,133,999]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [105,102,138,141,999]
+    }
+    - {
+      startTime: "12:15",
+      endTime: "13:30",
+      sessionIds: [803]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:45",
+      sessionIds: [117,125,132,142,103]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [115,130,110,143,134]
+    }    
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [109,128,129,144,135]
+    }
+    - {
+      startTime: "14:45",
+      endTime: "15:05",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "15:05",
+      endTime: "16:00",
+      sessionIds: [118,111,119,113,137]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [112,116,106,131,136]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:30",
+      sessionIds: [902]
+    }
+    - {
+      startTime: "16:30",
+      endTime: "17:00",
+      sessionIds: [804]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "",
+      sessionIds: [805]
+    }
