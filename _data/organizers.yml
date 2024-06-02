@@ -8,10 +8,10 @@
         imageUrl: "logo-osgeo.nl.svg"
         }
      - {
-        name: "Provincie Zeeland",
-        description: "Provincie Zeeland",
-        link: "https://zeeland.nl",
-        imageUrl: "logo-provincie-zeeland.svg"
+        name: "OSGeo.be",
+        description: "OSGeo België",
+        link: "https://osgeo.be",
+        imageUrl: "logo-osgeo.be.png"
         }
 
 

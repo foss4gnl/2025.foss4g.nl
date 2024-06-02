@@ -37,10 +37,10 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Nieuws"}
- - {permalink: "/workshops/", text: "Workshops"}
- - {permalink: "/conference/", text: "Programma"}
+# - {permalink: "/workshops/", text: "Workshops"}
+# - {permalink: "/conference/", text: "Programma"}
 # - {permalink: "/photos/", text: "Foto's"}
- - {permalink: "/speakers/", text: "Sprekers"}
+# - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
 #  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2024-671614857117", text: "Aanmelden"}
 #  - {link: "https://foss4g.nl", text: "Presentaties"}
@@ -66,21 +66,21 @@ latestNewsTitle: "Nieuws"
 
 # Location Block
 locationBlockTitle: "Locatie"
-eventLocationName: "Koorkerk en Abdij"
+eventLocationName: "Cultuurcentrum Baarle"
 eventLocationLink: ""
 eventStreetAddress: ""
-eventAddressLocality: "Baarle Hertog"
+eventAddressLocality: "Baarle (Hertog & Nassau)"
 eventAddressLocalityRegion: "Noord Brabant"
 eventPostalCode: ""
 eventAddressCountry: "Nederland"
 eventStartTime: "2024-09-26T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2024-09-26T18:00"
-eventPlaceCoordinates: "51.50053, 3.61473"
-eventPlaceLongitude: 3.61473
-eventPlaceLatitude: 51.50053
-mapCenterCoordinates: "51.50053, 3.61473"
-mapMobileCenterCoordinates: "51.50053, 3.61473"
+eventPlaceCoordinates: "51.4416456, 4.9259227"
+eventPlaceLongitude: 4.9259227 
+eventPlaceLatitude: 51.4416456
+mapCenterCoordinates: "51.4416456, 4.9259227"
+mapMobileCenterCoordinates: "51.4416456, 4.9259227"
 
 # Partners Block
 organizersTitle: ""
