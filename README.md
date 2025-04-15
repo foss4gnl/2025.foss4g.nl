@@ -1,46 +1,62 @@
-# Website FOSS4GNL 2024 in Baarle
-This is the content for the website of the FOSS4GNL 2024 conference (to be) held on September 26, 2024 IRL
-together with OSGEO-BE in Baarle Hertog (Fr: Duc?).
+# Website FOSS4GNL 2025 in Wageningen
+This is the content for the website of the FOSS4GNL 2025 conference (to be) held on July 111 at the Wageningen University.
+
+Organised together with the GeoDesk Wageningen. 
 
 Link: https://foss4g.nl
 
-## HOWTO Creating a new website
+# HOW TO Creating a new website
 
-When organizing a new FOSS4GNL create a new website as follows. In the example 
-the new FOSS4G is in 2024, the previous in 2023. This is possible without leaving GitHub!
-All edits can be done on GitHub for the initial setup. Ok, for content local edits are preferred.
+When organizing a new FOSS4GNL create a new website as follows. In the example the new FOSS4G is in 2024, the previous in 2023. 
+All edits can be done on GitHub for the initial setup and some settings are done at YourHosting.
 
-### Set previous as a Template Repository
+## Github settings 
+
+### 1. Set previous as a Template Repository
 Go to the settings and mark as template. See image:
 
 ![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/7530c9a4-8374-4be1-8daf-ef2f2e7b5d69)
 
-### Create new Repository from Template Repo
-
-Webbrowser: go to: https://github.com/foss4gnl/
+### 2. Create new Repository from Template Repo
 
 Create a new repo called **foss4gnl/2024.foss4g.nl** from the **foss4gnl/2023.foss4g.nl** template repo. See image
 
 ![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/caf1a465-a3b8-4791-879f-307ef5c1a8ac)
 
-### Rename the CNAME for 2023.foss4g.nl.
 
-Edit CNAME in root dir and change to 2023.foss4g.nl
-
-### YourHosting CNAME changes
-
-* create  2023.foss4g.nl and point to GitHub like the CNAME 2021.foss4g.nl or other editions:
-
-![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/15f4da4e-9407-4ae6-bd74-b53a461217f6)
-
-## Setup GitHub Pages
-* GitHub: Settings https://github.com/foss4gnl/2024.foss4g.nl/settings/pages, setup Pages to point to main branch:
+### 3. Setup GitHub Pages for new repro
+* GitHub: Fo to`Settings` of the new repro and then `Pages` 
+* setup Pages to point to main branch
   
 ![image](https://github.com/foss4gnl/2024.foss4g.nl/assets/582630/64d6f5ec-56b4-4c12-95d9-5b983f6af0a0)
 
-* GitHub: same for https://github.com/foss4gnl/2023.foss4g.nl/settings/pages setting custom domain to 2023.foss4g.nl.
+* Press `Save` now you can add the custom domain. Make this point to `foss4g.nl`
 
-That's it!
+### 4. Change Github Pages for previous year 
+* GitHub: Fo to`Settings` of the new repro and then `Pages` 
+* GitHub: set custom domain to 2023.foss4g.nl.
+
+### 5. Edit CNAME previous year 
+
+* in root dir of previeous year repro , change CNAME file to 2023.foss4g.nl
+
+## YourHosing settings
+
+* Go to YourHosting account. 
+* Go to `DNS-en redirectbeheer` then `foss4g.nl Beheer`
+
+### 6. YourHosting CNAME changes
+
+* At `DNS beheer:foss4g.nl` add a new CNAME  2023.foss4g.nl and point to GitHub like the CNAME 2021.foss4g.nl or other editions:
+
+![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/15f4da4e-9407-4ae6-bd74-b53a461217f6)
+
+* Press `DNS Save` 
+
+Changes may take a while. 
+
+
+That's it! Now the website should be updated
 
 ## Credits
 The [2018-version of this website](https://2018.foss4g.nl) was originally made by Jasper Roest.
