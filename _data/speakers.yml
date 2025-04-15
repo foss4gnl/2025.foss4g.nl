@@ -1,451 +1,451 @@
--
-  id: 90
-  name: "Frits"
-  surname: "Bussemaker"
-  company: "Business Community Builder"
-  thumbnailUrl: "frits_bussemaker.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
-  rockstar: true
--
-  id: 91
-  name: "Logan"
-  surname: "Williams"
-  company: "Bellingcat"
-  description: "Logan Williams is a data scientist for Bellingcat, with a background in cartography and data visualization."
-  thumbnailUrl: "logan_williams.jpg"
-  rockstar: true
--
-  id: 94
-  name: "Niene"
-  surname: "Boeijen"
-  company: "This Way Cartography"
-  thumbnailUrl: "niene_boeijen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
-  rockstar: false
--
-  id: 95
-  name: "Erik"
-  surname: "Meerburg"
-  company: "B3Partners"
-  thumbnailUrl: "erik_meerburg.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/erikmeerburg/"}
-  rockstar: false
--
-  id: 96
-  name: "Ferry"
-  surname: "Brasz"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "ferry_brasz.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ferrybrasz/"}
-  rockstar: false
--
-  id: 101
-  name: "Jacco"
-  surname: "Brouwer"
-  company: "VNG"
-  thumbnailUrl: "jacco_brouwer.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jaccobrouwernl/"}
-  rockstar: false
--  
-  id: 102
-  name: "Kamiel"
-  surname: "Verhelst"
-  company: "Geodan"
-  thumbnailUrl: "kamiel_verhelst.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kamiel-verhelst/"}
-  rockstar: false
--  
-  id: 103
-  name: "Jurriën"
-  surname: "Vroom"
-  company: "CBS"
-  thumbnailUrl: "jurrien_vroom.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jurrien-vroom-91345715b/"}
-  rockstar: false
--
-  id: 104
-  name: "Leon"
-  surname: "van der Meulen"
-  company: "Rijksuniversiteit Groningen"
-  thumbnailUrl: "leon_meulen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/leonvandermeulen/"}
-  rockstar: false
--
-  id: 105
-  name: "Ronnie"
-  surname: "Lassche"
-  company: "Merkator"
-  thumbnailUrl: "ronnie_lassche.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ronnie-lassche-83715910/"}
-  rockstar: false
--
-  id: 106
-  name: "Just"
-  surname: "van den Broecke"
-  company: "Just Objects"
-  thumbnailUrl: "just_broecke.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/justb4/"}
-  rockstar: false
--
-  id: 107
-  name: "Simon"
-  surname: "Pouwelse"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "simon_pouwelse.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/simonpouwelse/"}
-  rockstar: false
--
-  id: 108
-  name: "Hans"
-  surname: "van der Kwast"
-  company: "IHE Delft"
-  thumbnailUrl: "hans_kwast.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
-  rockstar: false
--
-  id: 110
-  name: "Anne"
-  surname: "Blankert"
-  company: "Geodan"
-  thumbnailUrl: "anne_blankert.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anne-blankert-1b45473/"}
-  rockstar: false
--
-  id: 111
-  name: "Jochem"
-  surname: "Lesparre"
-  company: "Kadaster"
-  thumbnailUrl: "jochem_lesparre.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jochemlesparre/"}
-  rockstar: false
--
-  id: 112
-  name: "Reinout"
-  surname: "van Rees"
-  company: "Nelen & Schuurmans"
-  thumbnailUrl: "reinout_rees.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/reinoutvanrees/"}
-  rockstar: false
--
-  id: 113
-  name: "Radboud"
-  surname: "van der Linden"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "radboud_linden.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/radboud-van-der-linden-90359419/"}
-  rockstar: false
--
-  id: 114
-  name: "Coen"
-  surname: "Verhoeve"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "coen_verhoeve.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/coen-verhoeve-21190013/"}
-  rockstar: false
--
-  id: 115
-  name: "Willem"
-  surname: "Hoffmans"
-  company: "Ruimtemaatwerk"
-  thumbnailUrl: "willem_hoffmans.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/willemhoffmans/"}
-  rockstar: false
--
-  id: 116
-  name: "Stephan"
-  surname: "preeker"
-  company: "VNG Realisatie"
-  thumbnailUrl: "stephan_preeker.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/spreeker/"}
-  rockstar: false
--
-  id: 117
-  name: "Fabian"
-  surname: "Feijen"
-  company: "Gemeente Veendam"
-  thumbnailUrl: "fabian_feijen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fabianfeijen/"}
-  rockstar: false
--
-  id: 118
-  name: "Wazir"
-  surname: "Sahebali"
-  company: "Dialogic"
-  thumbnailUrl: "wazir_sahebali.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/wazir-s-28a180112/"}
-  rockstar: false
--
-  id: 120
-  name: "Remco"
-  surname: "Bloem"
-  company: "Autoriteit Consument & Markt"
-  thumbnailUrl: "placeholder.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/remco-bloem-5675b597/"}
-  rockstar: false
--
-  id: 121
-  name: "Marco"
-  surname: "van Antwerpen"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "marco_antwerpen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-van-antwerpen-682ab566/"}
-  rockstar: false
--
-  id: 123
-  name: "Lars"
-  surname: "van Tol"
-  company: "Nieuwland Geo"
-  thumbnailUrl: "lars_tol.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/lars-van-tol-91a99510a/"}
-  rockstar: false
--
-  id: 124
-  name: "Raymond"
-  surname: "Nijssen"
-  company: "Terglobo"
-  thumbnailUrl: "raymond_nijssen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/raymond-nijssen-17227a6/"}
-  rockstar: false
--
-  id: 125
-  name: "Suzan"
-  surname: "Dehati"
-  company: "IHE Delft"
-  thumbnailUrl: "suzan_dehati.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/suzan-dehati-04a60922b/"}
-  rockstar: false
--
-  id: 126
-  name: "Casper"
-  surname: "Kersten"
-  company: "OpenStreetMap-NL"
-  thumbnailUrl: "casper_kersten.jpg"
-  social: 
-    - {name: "site", link: "https://community.openstreetmap.org/u/friendly_ghost/"}
-  rockstar: false
--
-  id: 127
-  name: "Gina"
-  surname: "Stavropoulou"
-  company: "3D Geo TU Delft"
-  thumbnailUrl: "gina_stavropoulou.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gina-stavropoulou/"}
-  rockstar: false
--
-  id: 128
-  name: "Leonardo"
-  surname: "Mauri"
-  company: "Cobra Groeninzicht"
-  thumbnailUrl: "leonardo_mauri.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-mauri/"}
-  rockstar: false
--
-  id: 129
-  name: "Wim"
-  surname: "Blanken"
-  company: "Groninger Bodem Beweging"
-  thumbnailUrl: "wim_blanken.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/wimblanken/"}
-  rockstar: false
--
-  id: 130
-  name: "Yonas"
-  surname: "Asfaha"
-  company: "IHE Delft"
-  thumbnailUrl: "yonas_asfaha.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/yonas-negusse-asfaha-a1091422a/"}
-  rockstar: false
--
-  id: 131
-  name: "Pieter"
-  surname: "Bliek"
-  company: "IHE Delft"
-  thumbnailUrl: "placeholder.jpg"
-  social: 
-    - {name: "linkedin", link: ""}
-  rockstar: false
--
-  id: 133
-  name: "Aart"
-  surname: "Allemekinders"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "aart_allemekinders.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/aart-allemekinders-02625114/"}
-  rockstar: false
--
-  id: 134
-  name: "Jos"
-  surname: "Goossen"
-  company: "Waterschap Scheldestromen"
-  thumbnailUrl: "jos_goossen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/josgoossen/"}
-  rockstar: false
--
-  id: 135
-  name: "Tim"
-  surname: "van Osch"
-  company: "Pollex' "
-  thumbnailUrl: "tim_osch.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tvanosch/"}
-  rockstar: false
--
-  id: 136
-  name: "Wim"
-  surname: "Kosten"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "wim_kosten.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/wim-kosten-66910613/"}
-  rockstar: false
--
-  id: 137
-  name: "Marco"
-  surname: "Duiker"
-  company: "LandGoed"
-  thumbnailUrl: "marco_duiker.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mdkwadraat/"}
-  rockstar: false
--
-  id: 138
-  name: "Thieu"
-  surname: "Caris"
-  company: "Provincie Zeeland"
-  thumbnailUrl: "thieu_caris.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/thieucaris/"}
-  rockstar: false
--
-  id: 140
-  name: "Bart"
-  surname: "Louwers"
-  company: "MapLibre"
-  thumbnailUrl: "bart_louwers.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bart-louwers/"}
-  rockstar: false
--
-  id: 141
-  name: "Wouter"
-  surname: "van der Hulst"
-  company: "Alliander"
-  thumbnailUrl: "wouter_van_der_hulst.jpg"
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/wouter-van-der-hulst-a9933a137/"}
-  rockstar: false
--
-  id: 142
-  name: "Arash"
-  surname: "Hoseni"
-  company: "Alliander"
-  thumbnailUrl: "arash_hoseni.jpg"
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/arash-hoseni-b9253b83/"}
-  rockstar: false
--
-  id: 144
-  name: "Jorrit"
-  surname: "van 't Hart"
-  company: "Autoriteit Consument & Markt"
-  thumbnailUrl: "jorrit_vanthart.jpeg"
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jorritvanthart/"}
-  rockstar: false
--
-  id: 145
-  name: "Paul"
-  surname: "Suijkerbuijk"
-  company: "VNG Realisatie"
-  thumbnailUrl: "paul_suijkerbuijk.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/palinuro/"}
-  rockstar: false
--
-  id: 146
-  name: "Jeroen"
-  surname: "Hovens"
-  company: "Groene Bij"
-  thumbnailUrl: "jeroen_hovens.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jeroenhovens/"}
-  rockstar: false
--
-  id: 147
-  name: "Nick"
-  surname: "Verwaal"
-  company: "Maplab"
-  thumbnailUrl: "nick_verwaal.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nickverwaal/"}
-  rockstar: false
--
-  id: 148
-  name: "Ivonne"
-  surname: "Jansen-Dings"
-  company: "Provincie Zuid-Holland"
-  thumbnailUrl: "placeholder.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ivonnejansendings/"}
-  rockstar: false
--
-  id: 149
-  name: "Eveline"
-  surname: "Helder"
-  company: "Provincie Noord-Holland"
-  thumbnailUrl: "eveline_helder.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eveline-helder-65307649/"}
-  rockstar: false
--
-  id: 150
-  name: "Bart"
-  surname: "Jeukendrup"
-  company: "Delta10"
-  thumbnailUrl: "bart_jeukendurp.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bartjkdp/"}
-  rockstar: false
--
-  id: 151
-  name: "Casper"
-  surname: "Ficke"
-  company: "Gemeente Purmerend"
-  thumbnailUrl: "casper_ficke.jpeg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/casperficke/"}
-  rockstar: false
+# -
+#   id: 90
+#   name: "Frits"
+#   surname: "Bussemaker"
+#   company: "Business Community Builder"
+#   thumbnailUrl: "frits_bussemaker.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
+#   rockstar: true
+# -
+#   id: 91
+#   name: "Logan"
+#   surname: "Williams"
+#   company: "Bellingcat"
+#   description: "Logan Williams is a data scientist for Bellingcat, with a background in cartography and data visualization."
+#   thumbnailUrl: "logan_williams.jpg"
+#   rockstar: true
+# -
+#   id: 94
+#   name: "Niene"
+#   surname: "Boeijen"
+#   company: "This Way Cartography"
+#   thumbnailUrl: "niene_boeijen.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
+#   rockstar: false
+# -
+#   id: 95
+#   name: "Erik"
+#   surname: "Meerburg"
+#   company: "B3Partners"
+#   thumbnailUrl: "erik_meerburg.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/erikmeerburg/"}
+#   rockstar: false
+# -
+#   id: 96
+#   name: "Ferry"
+#   surname: "Brasz"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "ferry_brasz.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/ferrybrasz/"}
+#   rockstar: false
+# -
+#   id: 101
+#   name: "Jacco"
+#   surname: "Brouwer"
+#   company: "VNG"
+#   thumbnailUrl: "jacco_brouwer.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jaccobrouwernl/"}
+#   rockstar: false
+# -  
+#   id: 102
+#   name: "Kamiel"
+#   surname: "Verhelst"
+#   company: "Geodan"
+#   thumbnailUrl: "kamiel_verhelst.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/kamiel-verhelst/"}
+#   rockstar: false
+# -  
+#   id: 103
+#   name: "Jurriën"
+#   surname: "Vroom"
+#   company: "CBS"
+#   thumbnailUrl: "jurrien_vroom.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jurrien-vroom-91345715b/"}
+#   rockstar: false
+# -
+#   id: 104
+#   name: "Leon"
+#   surname: "van der Meulen"
+#   company: "Rijksuniversiteit Groningen"
+#   thumbnailUrl: "leon_meulen.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/leonvandermeulen/"}
+#   rockstar: false
+# -
+#   id: 105
+#   name: "Ronnie"
+#   surname: "Lassche"
+#   company: "Merkator"
+#   thumbnailUrl: "ronnie_lassche.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/ronnie-lassche-83715910/"}
+#   rockstar: false
+# -
+#   id: 106
+#   name: "Just"
+#   surname: "van den Broecke"
+#   company: "Just Objects"
+#   thumbnailUrl: "just_broecke.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/justb4/"}
+#   rockstar: false
+# -
+#   id: 107
+#   name: "Simon"
+#   surname: "Pouwelse"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "simon_pouwelse.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/simonpouwelse/"}
+#   rockstar: false
+# -
+#   id: 108
+#   name: "Hans"
+#   surname: "van der Kwast"
+#   company: "IHE Delft"
+#   thumbnailUrl: "hans_kwast.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
+#   rockstar: false
+# -
+#   id: 110
+#   name: "Anne"
+#   surname: "Blankert"
+#   company: "Geodan"
+#   thumbnailUrl: "anne_blankert.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/anne-blankert-1b45473/"}
+#   rockstar: false
+# -
+#   id: 111
+#   name: "Jochem"
+#   surname: "Lesparre"
+#   company: "Kadaster"
+#   thumbnailUrl: "jochem_lesparre.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jochemlesparre/"}
+#   rockstar: false
+# -
+#   id: 112
+#   name: "Reinout"
+#   surname: "van Rees"
+#   company: "Nelen & Schuurmans"
+#   thumbnailUrl: "reinout_rees.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/reinoutvanrees/"}
+#   rockstar: false
+# -
+#   id: 113
+#   name: "Radboud"
+#   surname: "van der Linden"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "radboud_linden.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/radboud-van-der-linden-90359419/"}
+#   rockstar: false
+# -
+#   id: 114
+#   name: "Coen"
+#   surname: "Verhoeve"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "coen_verhoeve.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/coen-verhoeve-21190013/"}
+#   rockstar: false
+# -
+#   id: 115
+#   name: "Willem"
+#   surname: "Hoffmans"
+#   company: "Ruimtemaatwerk"
+#   thumbnailUrl: "willem_hoffmans.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/willemhoffmans/"}
+#   rockstar: false
+# -
+#   id: 116
+#   name: "Stephan"
+#   surname: "preeker"
+#   company: "VNG Realisatie"
+#   thumbnailUrl: "stephan_preeker.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/spreeker/"}
+#   rockstar: false
+# -
+#   id: 117
+#   name: "Fabian"
+#   surname: "Feijen"
+#   company: "Gemeente Veendam"
+#   thumbnailUrl: "fabian_feijen.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/fabianfeijen/"}
+#   rockstar: false
+# -
+#   id: 118
+#   name: "Wazir"
+#   surname: "Sahebali"
+#   company: "Dialogic"
+#   thumbnailUrl: "wazir_sahebali.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/wazir-s-28a180112/"}
+#   rockstar: false
+# -
+#   id: 120
+#   name: "Remco"
+#   surname: "Bloem"
+#   company: "Autoriteit Consument & Markt"
+#   thumbnailUrl: "placeholder.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/remco-bloem-5675b597/"}
+#   rockstar: false
+# -
+#   id: 121
+#   name: "Marco"
+#   surname: "van Antwerpen"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "marco_antwerpen.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-van-antwerpen-682ab566/"}
+#   rockstar: false
+# -
+#   id: 123
+#   name: "Lars"
+#   surname: "van Tol"
+#   company: "Nieuwland Geo"
+#   thumbnailUrl: "lars_tol.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/lars-van-tol-91a99510a/"}
+#   rockstar: false
+# -
+#   id: 124
+#   name: "Raymond"
+#   surname: "Nijssen"
+#   company: "Terglobo"
+#   thumbnailUrl: "raymond_nijssen.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/raymond-nijssen-17227a6/"}
+#   rockstar: false
+# -
+#   id: 125
+#   name: "Suzan"
+#   surname: "Dehati"
+#   company: "IHE Delft"
+#   thumbnailUrl: "suzan_dehati.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/suzan-dehati-04a60922b/"}
+#   rockstar: false
+# -
+#   id: 126
+#   name: "Casper"
+#   surname: "Kersten"
+#   company: "OpenStreetMap-NL"
+#   thumbnailUrl: "casper_kersten.jpg"
+#   social: 
+#     - {name: "site", link: "https://community.openstreetmap.org/u/friendly_ghost/"}
+#   rockstar: false
+# -
+#   id: 127
+#   name: "Gina"
+#   surname: "Stavropoulou"
+#   company: "3D Geo TU Delft"
+#   thumbnailUrl: "gina_stavropoulou.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/gina-stavropoulou/"}
+#   rockstar: false
+# -
+#   id: 128
+#   name: "Leonardo"
+#   surname: "Mauri"
+#   company: "Cobra Groeninzicht"
+#   thumbnailUrl: "leonardo_mauri.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-mauri/"}
+#   rockstar: false
+# -
+#   id: 129
+#   name: "Wim"
+#   surname: "Blanken"
+#   company: "Groninger Bodem Beweging"
+#   thumbnailUrl: "wim_blanken.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/wimblanken/"}
+#   rockstar: false
+# -
+#   id: 130
+#   name: "Yonas"
+#   surname: "Asfaha"
+#   company: "IHE Delft"
+#   thumbnailUrl: "yonas_asfaha.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/yonas-negusse-asfaha-a1091422a/"}
+#   rockstar: false
+# -
+#   id: 131
+#   name: "Pieter"
+#   surname: "Bliek"
+#   company: "IHE Delft"
+#   thumbnailUrl: "placeholder.jpg"
+#   social: 
+#     - {name: "linkedin", link: ""}
+#   rockstar: false
+# -
+#   id: 133
+#   name: "Aart"
+#   surname: "Allemekinders"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "aart_allemekinders.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/aart-allemekinders-02625114/"}
+#   rockstar: false
+# -
+#   id: 134
+#   name: "Jos"
+#   surname: "Goossen"
+#   company: "Waterschap Scheldestromen"
+#   thumbnailUrl: "jos_goossen.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/josgoossen/"}
+#   rockstar: false
+# -
+#   id: 135
+#   name: "Tim"
+#   surname: "van Osch"
+#   company: "Pollex' "
+#   thumbnailUrl: "tim_osch.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/tvanosch/"}
+#   rockstar: false
+# -
+#   id: 136
+#   name: "Wim"
+#   surname: "Kosten"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "wim_kosten.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/wim-kosten-66910613/"}
+#   rockstar: false
+# -
+#   id: 137
+#   name: "Marco"
+#   surname: "Duiker"
+#   company: "LandGoed"
+#   thumbnailUrl: "marco_duiker.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/mdkwadraat/"}
+#   rockstar: false
+# -
+#   id: 138
+#   name: "Thieu"
+#   surname: "Caris"
+#   company: "Provincie Zeeland"
+#   thumbnailUrl: "thieu_caris.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/thieucaris/"}
+#   rockstar: false
+# -
+#   id: 140
+#   name: "Bart"
+#   surname: "Louwers"
+#   company: "MapLibre"
+#   thumbnailUrl: "bart_louwers.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/bart-louwers/"}
+#   rockstar: false
+# -
+#   id: 141
+#   name: "Wouter"
+#   surname: "van der Hulst"
+#   company: "Alliander"
+#   thumbnailUrl: "wouter_van_der_hulst.jpg"
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/wouter-van-der-hulst-a9933a137/"}
+#   rockstar: false
+# -
+#   id: 142
+#   name: "Arash"
+#   surname: "Hoseni"
+#   company: "Alliander"
+#   thumbnailUrl: "arash_hoseni.jpg"
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/arash-hoseni-b9253b83/"}
+#   rockstar: false
+# -
+#   id: 144
+#   name: "Jorrit"
+#   surname: "van 't Hart"
+#   company: "Autoriteit Consument & Markt"
+#   thumbnailUrl: "jorrit_vanthart.jpeg"
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jorritvanthart/"}
+#   rockstar: false
+# -
+#   id: 145
+#   name: "Paul"
+#   surname: "Suijkerbuijk"
+#   company: "VNG Realisatie"
+#   thumbnailUrl: "paul_suijkerbuijk.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/palinuro/"}
+#   rockstar: false
+# -
+#   id: 146
+#   name: "Jeroen"
+#   surname: "Hovens"
+#   company: "Groene Bij"
+#   thumbnailUrl: "jeroen_hovens.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jeroenhovens/"}
+#   rockstar: false
+# -
+#   id: 147
+#   name: "Nick"
+#   surname: "Verwaal"
+#   company: "Maplab"
+#   thumbnailUrl: "nick_verwaal.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/nickverwaal/"}
+#   rockstar: false
+# -
+#   id: 148
+#   name: "Ivonne"
+#   surname: "Jansen-Dings"
+#   company: "Provincie Zuid-Holland"
+#   thumbnailUrl: "placeholder.jpg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/ivonnejansendings/"}
+#   rockstar: false
+# -
+#   id: 149
+#   name: "Eveline"
+#   surname: "Helder"
+#   company: "Provincie Noord-Holland"
+#   thumbnailUrl: "eveline_helder.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/eveline-helder-65307649/"}
+#   rockstar: false
+# -
+#   id: 150
+#   name: "Bart"
+#   surname: "Jeukendrup"
+#   company: "Delta10"
+#   thumbnailUrl: "bart_jeukendurp.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/bartjkdp/"}
+#   rockstar: false
+# -
+#   id: 151
+#   name: "Casper"
+#   surname: "Ficke"
+#   company: "Gemeente Purmerend"
+#   thumbnailUrl: "casper_ficke.jpeg"
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/casperficke/"}
+#   rockstar: false
 
 

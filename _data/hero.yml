@@ -1,10 +1,10 @@
-image: "baarlegrens.jpg"
-title: "FOSS4G BE&NL 2024"
+image: "omnia.jpg"
+title: "FOSS4G.NL 2025"
 spreker: "WORD SPREKER"
-eventDate: "25-26-27 september 2024 - Baarle (Nassau & Hertog)"
+eventDate: "2 & 3 juli 2025 - Wageningen Campus, Omnia"
 buttons:
   # {permalink: "/becomeaspeaker/", text: "Become a speaker"}
+  - {link: "https://talks.osgeo.org/foss4gnl-2025/", text: "CfP: Meld je aan als spreker of verzorg een workshop!"}
   # - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2023-671614857117", text: "tickets"}
-  # - {link: "https://forms.gle/uZMoTpM9yerQEppg7", text: "Aanmelden als spreker"}
   # - {link: "https://forms.gle/yF3zTG6zNPztTJDR7", text: "Become a speaker"}
-  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2023", text: "Presentaties 2023"}
+  # - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2023", text: "Presentaties 2023"}

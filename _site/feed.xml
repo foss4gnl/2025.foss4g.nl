@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSS4GNL 2025</title>
+    <description>FOSS4GNL conference website 2025</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Maptime track!</title>
+        <description>&lt;p&gt;(for English, scroll down!)&lt;/p&gt;
+
+&lt;p&gt;Beste Kaartliefhebbers!&lt;/p&gt;
+
+&lt;p&gt;Tijdens de Foss4GNL dag is er ook een heuse Maptime track! Hier hebben we drie hands-on workshops in de stijl van Maptime. Dit betekent zelf aan de slag om een kaartje te maken!&lt;/p&gt;
+
+&lt;p&gt;Inschrijven voor de workshops kun je doen bij binnenkomst direct bij de registratie. Per workshop kunnen maximaal 20 mensen mee doen. Bedenk van te voren goed welke workshop(s) je mee wilt gaan doen, er is een beetje voorbereiding nodig. En omdat we vermoeden dat de workshops snel vol zullen lopen, kan je je er in principe maar voor één inschrijven (als er in de eerste koffiepauze nog plekken open zijn dan mag je een tweede invullen).&lt;/p&gt;
+
+&lt;p&gt;Wat heb je nodig:&lt;/p&gt;
+
+&lt;p&gt;De workshops zijn hands-on. Neem dus je eigen laptop mee en zorg dat je voor de workshop al de lokale internet connectie hebt getest. De workshops zijn maar kort dus om het beste er van te maken zorg dat je goed voorbereid bent.
+Zorg ook dat je een goede text-editor geïnstalleerd hebt, zoals Visual Studio Code, Brackets of Notepad++, met Syntax Highligting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Workshop 1. Browser based mapping with D3.js&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische%20data/wijk-en-buurtkaart-2018&quot;&gt;Download CBS wijk data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Zorg dat je &lt;a href=&quot;https://www.qgis.org/en/site/&quot;&gt;QGIS&lt;/a&gt; hebt&lt;/li&gt;
+  &lt;li&gt;Maak een Observable account aan: &lt;a href=&quot;https://observablehq.com/&quot;&gt;https://observablehq.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Workshop 2. Geofiction &amp;amp; Roadmapping&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Niets nodig! We werken analoog. Met de hand gaan we een kaart maken over Foss4GNL.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Workshop 3. Dashboard prototyping in R&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Helaas gaat workshop 3 niet meer door. Er zal meer tijd zijn in de middag voor Workshop 2: Geofiction &amp;amp; Roadmapping.&lt;/p&gt;
+
+&lt;p&gt;Tot donderdag!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear Map Lovers!&lt;/p&gt;
+
+&lt;p&gt;During FOSS4GNL we will have a Maptime Track! Three hands-on workshops in the style of Maptime. This means, bring your laptop and let’s make a map!&lt;/p&gt;
+
+&lt;p&gt;Subscription for the workshops is at the entrance of the day, during registration. Per workshop max 20 people can participate. Some workshops need a little preparation. So decide beforehand which workshops you want to join. And becaus we expect quite the rush for the workshops, you can only pick one… (if there are still some spaces left during the first coffee break, you can apply for another).&lt;/p&gt;
+
+&lt;p&gt;What do you need?&lt;/p&gt;
+
+&lt;p&gt;Bring your own device! Maptime is hands-on, so bring your laptop. Make sure you test the local internet connection before the workshops. The workshops are short so come prepared to make the most out of it.
+Also, make sure you have a good text-editor installed. Like Visual Studio Code, Brackets or Notepad++. With Syntax Highlighting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Workshop 1. Browser based mapping with D3.js&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Download &lt;a href=&quot;https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische%20data/&quot;&gt;CBS neighborhood data&lt;/a&gt;wijk-en-buurtkaart-2018&lt;/li&gt;
+  &lt;li&gt;Make sure you have &lt;a href=&quot;https://www.qgis.org/en/site/&quot;&gt;QGIS&lt;/a&gt; installed&lt;/li&gt;
+  &lt;li&gt;Create a Observable account &lt;a href=&quot;https://observablehq.com/&quot;&gt;https://observablehq.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Workshop 2. Geofiction &amp;amp; Roadmapping&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;No needs! We will work analogue to draw our own map of FOSS4GNL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Workshop 3. Dashboard prototyping in R (spoken language will be Dutch)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately workshop 3 is cancelled. There will be more time in the afternoon for workshop 2: Geofiction &amp;amp; Roadmapping.&lt;/p&gt;
+
+&lt;p&gt;See you Thursday!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Jun 2019 19:56:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/foss4gnl-2019</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/foss4gnl-2019</guid>
+      </item>
+    
+      <item>
+        <title>Maar liefst 3 keynote speakers!</title>
+        <description>&lt;p&gt;Als organisatie zijn we bijzonder vereerd drie internationale toppers aan te mogen kondigen.&lt;/p&gt;
+
+&lt;p&gt;Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
+standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
+Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied.&lt;/p&gt;
+
+&lt;p&gt;Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
+internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
+zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”.&lt;/p&gt;
+
+&lt;p&gt;Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
+bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
+(u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
+communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 May 2019 15:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/keynote-speakers</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/keynote-speakers</guid>
+      </item>
+    
+  </channel>
+</rss>

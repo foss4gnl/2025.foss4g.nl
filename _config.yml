@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor/bundle']
 
 
 # Site Settings
-title: "FOSS4GNL 2024"
+title: "FOSS4GNL 2025"
 email: "foss4g@osgeo.nl"
-description: "FOSS4GNL conference website 2024"
+description: "FOSS4GNL conference website 2025"
 baseurl: ""
 url: "https://foss4g.nl"
 permalink: "/blog/:title"
@@ -29,18 +29,18 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://osgeo.nl/"
 
 # Head
-metaKeywords: "event, osgeo, conferentie, open source, geo, gis, baarle hertog, geographic, nederland, belgië, osgeo-be, osgeonl"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, WUR, geographic, nederland, Wageningen, osgeonl, Wageningen Universiteit, Geodesk"
 twitterAccount: "@osgeonl"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Nieuws"}
-# - {permalink: "/workshops/", text: "Workshops"}
-# - {permalink: "/conference/", text: "Programma"}
+#  - {permalink: "/blog/", text: "Nieuws"}
+#  - {permalink: "/workshops/", text: "Workshops"}
+#  - {permalink: "/conference/", text: "Programma"}
 # - {permalink: "/photos/", text: "Foto's"}
-# - {permalink: "/speakers/", text: "Sprekers"}
+#  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
 #  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2024-671614857117", text: "Aanmelden"}
 #  - {link: "https://foss4g.nl", text: "Presentaties"}
@@ -49,16 +49,16 @@ rightNavigationButtons:
   #- {link: "https://foss4g.nl", text: "Presentaties"}
 
 # About Block
-aboutTitle: "Over FOSS4GNL 2024"
+aboutTitle: "Over FOSS4GNL 2025"
 aboutBlock:
 # - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2024"}
 
 # Statistic Block
-statisticBlockImage: "delft_ahn3.jpg"
+statisticBlockImage: "omnia.jpg"
 statisticBlock:
- - {count: "4", specialCharacter: "", info: "workshops", detail: ""}
+ - {count: "8", specialCharacter: "", info: "workshops", detail: ""}
  - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
- - {count: "42", specialCharacter: "", info: "sessies", detail: ""}
+ - {count: "45", specialCharacter: "", info: "sessies", detail: ""}
  - {count: "5", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
@@ -66,21 +66,21 @@ latestNewsTitle: "Nieuws"
 
 # Location Block
 locationBlockTitle: "Locatie"
-eventLocationName: "Cultuurcentrum Baarle"
+eventLocationName: "Omnia - Wageningen Campus"
 eventLocationLink: ""
 eventStreetAddress: ""
-eventAddressLocality: "Baarle (Hertog & Nassau)"
-eventAddressLocalityRegion: "Noord Brabant"
+eventAddressLocality: "Wageningen"
+eventAddressLocalityRegion: "Gelderland"
 eventPostalCode: ""
 eventAddressCountry: "Nederland"
-eventStartTime: "2024-09-26T10:00"
+eventStartTime: "2025-07-02T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2024-09-26T18:00"
-eventPlaceCoordinates: "51.4416456, 4.9259227"
-eventPlaceLongitude: 4.9259227 
-eventPlaceLatitude: 51.4416456
-mapCenterCoordinates: "51.4416456, 4.9259227"
-mapMobileCenterCoordinates: "51.4416456, 4.9259227"
+eventEndTime: "2025-07-03T18:00"
+eventPlaceCoordinates: "51.9859156, 5.669655053"
+eventPlaceLongitude: 5.669655053
+eventPlaceLatitude: 51.9859156
+mapCenterCoordinates: "51.9859156, 5.669655053"
+mapMobileCenterCoordinates: "51.9859156, 5.669655053"
 
 # Partners Block
 organizersTitle: ""
@@ -94,7 +94,7 @@ ticketsTitle: "Prijslijst"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "Conferentiedag 20 juni"
+  name: "Conferentiedag 2 juli"
   price: ""
   priceCurrency: "Donatie"
   ticketsNumber: "?"
@@ -120,25 +120,28 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=osgeonl", icon: "twitter"}
 footerBlocks:
- -
+-
+  title: "Contact"
+  links:
+   - {link: "mailto:foss4g@osgeo.nl", text: "foss4g@osgeo.nl"}
+
+-
   title: "Links"
   links:
-   - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
-   - {link: "https://wiki.osgeo.org/wiki/Nederlands/", text: "Wiki"}
+    - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
+    - {link: "https://wiki.osgeo.org/wiki/Nederlands/", text: "Wiki"}
+#    - {permalink: "/cod/", text: "Code of Conduct"
+    - {link: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"}
+
+-
+  title: "Previous events"
+  links:
    - {link: "https://2017.foss4g.nl", text: "FOSS4GNL 2017"}
    - {link: "https://2018.foss4g.nl", text: "FOSS4GNL 2018"}
    - {link: "https://2019.foss4g.nl", text: "FOSS4GNL 2019"}
    - {link: "https://2021.foss4g.nl", text: "FOSS4GNL 2021"}
    - {link: "https://2023.foss4g.nl", text: "FOSS4GNL 2023" }
- -
-  title: "Contact"
-  links:
-   - {link: "mailto:foss4g@osgeo.nl", text: "foss4g@osgeo.nl"}
- -
-  title: "FAQ"
-  links:
-#    - {permalink: "/cod/", text: "Code of Conduct"
-    - {link: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"}
+   - {link: "https://2024.foss4g.nl", text: "FOSS4GNL 2024" }
 
 # Blog
 blogTitle: ""

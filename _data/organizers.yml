@@ -8,10 +8,10 @@
         imageUrl: "logo-osgeo.nl.svg"
         }
      - {
-        name: "OSGeo.be",
-        description: "OSGeo België",
-        link: "https://osgeo.be",
-        imageUrl: "logo-osgeo.be.png"
+        name: "GeoDesk",
+        description: "De Geodesk is binnen Wageningen University & Research hèt loket voor wensen en vragen op het gebied van geodata en geosoftware. We staan ook open voor vragen van mensen buiten WUR.",
+        link: "https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/faciliteiten-producten/geodesk.htm",
+        imageUrl: "logo-WUR_RGB_standard_2021-site.svg"
         }
 
 

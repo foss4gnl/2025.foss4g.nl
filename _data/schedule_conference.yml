@@ -1,7 +1,7 @@
 - 
-  date: "2023-09-14"
-  dateReadable: "14 september"
-  title: "Conferentieprogramma 14 september"
+  date: "2025-07-03"
+  dateReadable: "3 juli"
+  title: "Conferentieprogramma 3 juli"
   tracks: 
     - {title: "Beleid & QGIS", color: "#90be4e"}
     - {title: "3D, RS & CRS", color: "#e91e63"}
