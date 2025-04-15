@@ -2,7 +2,7 @@
 This is the content for the website of the FOSS4GNL 2024 conference (to be) held on September 26, 2024 IRL
 together with OSGEO-BE in Baarle Hertog (Fr: Duc?).
 
-Link: https://foss4g.nl
+Link: https://2024.foss4g.nl
 
 ## HOWTO Creating a new website
 
