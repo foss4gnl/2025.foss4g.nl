@@ -20,6 +20,7 @@ googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
+
 # Organizer Info
 organizerName: "OSGeo.nl"
 organizerAlternateName: "Open Source Geo Nederland"
@@ -30,8 +31,6 @@ organizerLink: "https://osgeo.nl/"
 
 # Head
 metaKeywords: "event, osgeo, conferentie, open source, geo, gis, WUR, geographic, nederland, Wageningen, osgeonl, Wageningen Universiteit, Geodesk"
-twitterAccount: "@osgeonl"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Navigation
 navigationLinks:
@@ -41,17 +40,21 @@ navigationLinks:
 #  - {permalink: "/conference/", text: "Programma"}
 # - {permalink: "/photos/", text: "Foto's"}
 #  - {permalink: "/speakers/", text: "Sprekers"}
-bottomNavigationLinks:
-#  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2024-671614857117", text: "Aanmelden"}
-#  - {link: "https://foss4g.nl", text: "Presentaties"}
-rightNavigationButtons:
-  #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2024-671614857117", text: "Aanmelden"}
-  #- {link: "https://foss4g.nl", text: "Presentaties"}
 
-# About Block
+rightNavigationButtons:
+  - {link: "https://talks.osgeo.org/foss4gnl-2025/", text: "CfP"}
+
+# About Block (voor urls gebruik enkele aanhalingstekens  ' ' )
 aboutTitle: "Over FOSS4GNL 2025"
-aboutBlock:
-# - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2024"}
+aboutDescription: "In 2025 werken we samen met <a href='https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/faciliteiten-producten/geodesk.htm'>Geodesk Wageningen University & Research</a> en  <a href='https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm?_gl=1*12635kc*_up*MQ..*_ga*MjAyMTk3NzAzNi4xNzQ0NzA4MTQx*_ga_SZ1PQDSPJD*MTc0NDcwODE0MC4xLjEuMTc0NDcwODIyNS4wLjAuMA..''>Laboratorium voor Geo-informatiekunde en Remote Sensing</a> 
+<br><br>
+Woensdag 2 juli is de workshop dag en de icebreakerparty<br>
+Donderdag 3 juli het hart van de FOSS4G: de conferentiedag<br>
+<br><br>
+Dit jaar op echte conferentie locatie! : De Wageningen Campus,<a href='https://www.wur.nl/nl/waardecreatie-samenwerking/kom-naar-de-campus/omnia-8.htm'> Omnia</a> gebouw.</p><br>"
+# aboutLogo:
+#  - { image: "", text: "logo foss4g 2025"}
+
 
 # Statistic Block
 statisticBlockImage: "220512_216_Omnia.jpg"
@@ -155,3 +158,4 @@ discusShortName: "osgeo"
 
 # Speakers List Block
 showSessions: true
+

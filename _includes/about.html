@@ -3,25 +3,35 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
-            {% include description_about.html %}
+
+            {% assign animationDelay = 0 %}
+            {% for about in site.aboutLogo %}
+            {% if about.image %}
             <div class="row about-details">
-                {% assign animationDelay = 0 %}
-                {% for about in site.aboutBlock %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-{{ colWidth }}">
                 <a href={{ about.permalink | prepend: site.baseurl  }}>
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <p>{{ about.text }}</p>
                     </div>
                 </a>
                 </div>
+                
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
+             
             </div>
+            {% endif %}
+            {% endfor %}
+
+            <div class="content-wrapper text-left">
+                <div class="col-lg-6 col-lg-offset-3">
+                    <p>{{site.aboutDescription}}</p>
+                </div>
+            </div>
+        
+
+          
         </div>
     </div>
 </section>
