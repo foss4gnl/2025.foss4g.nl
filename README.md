@@ -3,7 +3,7 @@ This is the content for the website of the FOSS4GNL 2025 conference (to be) held
 
 Organised together with the GeoDesk Wageningen. 
 
-Link: https://foss4g.nl
+Link: https://2024.foss4g.nl
 
 # HOW TO Creating a new website
 
