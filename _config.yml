@@ -54,7 +54,7 @@ aboutBlock:
 # - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2024"}
 
 # Statistic Block
-statisticBlockImage: "omnia.jpg"
+statisticBlockImage: "220512_216_Omnia.jpg"
 statisticBlock:
  - {count: "8", specialCharacter: "", info: "workshops", detail: ""}
  - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
@@ -83,8 +83,13 @@ mapCenterCoordinates: "51.9859156, 5.669655053"
 mapMobileCenterCoordinates: "51.9859156, 5.669655053"
 
 # Partners Block
-organizersTitle: ""
 partnersTitle: "Sponsors"
+becomeSponsorLink: "mailto:foss4g@osgeo.nl"
+sponsorsButtonText: "Word een sponsor"
+
+
+# Organizers Block
+organizersTitle: "Organisatie"
 becomeSponsorLink: "mailto:foss4g@osgeo.nl"
 sponsorsButtonText: "Word een sponsor"
 
