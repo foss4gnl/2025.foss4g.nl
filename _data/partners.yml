@@ -13,7 +13,7 @@
         link: "https://www.geocat.net/", 
         imageUrl: "logo-geocat.png"
       }
-      - {
+    - {
         name: "GeoSquare", 
         description: "", 
         link: "https://www.geosquare.nl/", 
@@ -28,7 +28,7 @@
         link: "https://tomtom.com/", 
         imageUrl: "TomTom-logo-RGB_lockup.png"
       }   
-   - {
+    - {
         name: "Geo Academie",
         description: "", 
         link: "https://geo-academie.nl/", 
