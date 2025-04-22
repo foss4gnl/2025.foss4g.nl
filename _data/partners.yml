@@ -13,7 +13,12 @@
         link: "https://www.geocat.net/", 
         imageUrl: "logo-geocat.png"
       }
-    
+      - {
+        name: "GeoSquare", 
+        description: "", 
+        link: "https://www.geosquare.nl/", 
+        imageUrl: "geosquare_Logo_RGB-cropped.svg"
+      }  
 -
   group: "Zilver"
   elements:
@@ -23,12 +28,18 @@
         link: "https://tomtom.com/", 
         imageUrl: "TomTom-logo-RGB_lockup.png"
       }   
+   - {
+        name: "Geo Academie",
+        description: "", 
+        link: "https://geo-academie.nl/", 
+        imageUrl: "logo_GA.png"
+      }   
 -
   group: "Brons"
   elements:
     - {
-        name: "Ruimteschepper", 
+        name: "Buro Regen&Water", 
         description: "", 
-        link: "https://www.ruimteschepper.nl/", 
-        imageUrl: "ruimteschepper Logo RGB-cropped.svg"
+        link: "https://www.buro-regen-en-water.nl/", 
+        imageUrl: "buroregenenwater.jpg"
       }
