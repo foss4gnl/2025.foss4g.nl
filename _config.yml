@@ -46,13 +46,16 @@ rightNavigationButtons:
 
 # About Block (voor urls gebruik enkele aanhalingstekens  ' ' )
 aboutTitle: "Over FOSS4GNL 2025"
-aboutDescription: "Ook in 2025 is er weer een FOSS4GNL. Na vorig jaar op de bijzondere plek Baarle (Nassau én Hertog) samen met onze zuiderburen de eerste transnationale FOSS4G te hebben georganiseerd, zijn we dit jaar te gast in een van de geo-hoofdsteden van Nederland: Wageningen. In het schitterende nieuwe congrescentrum Omnia hebben we dit jaar een FOSS4GNL  op stand! <br><br>
+aboutDescription: "Ook in 2025 is er uiteraard weer een FOSS4GNL. Vorig jaar organiseerden we samen met onze zuiderburen de eerste transnationale FOSS4G op de grenstechnisch zeer bijzondere plek Baarle (Nassau én Hertog), dit jaar zijn we te gast in een van de echte geo-hoofdsteden van Nederland: Wageningen. In het schitterende nieuwe congrescentrum Omnia hebben we dit jaar een FOSS4GNL op stand! <br><br>
 De organisatie is dit jaar in samenwerking met <a href='https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/faciliteiten-producten/geodesk.htm'>Geodesk Wageningen University & Research</a> en  <a href='https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm?_gl=1*12635kc*_up*MQ..*_ga*MjAyMTk3NzAzNi4xNzQ0NzA4MTQx*_ga_SZ1PQDSPJD*MTc0NDcwODE0MC4xLjEuMTc0NDcwODIyNS4wLjAuMA..''>Laboratorium voor Geo-informatiekunde en Remote Sensing</a> 
 <br><br>
+De FOSS4GNL 2025 wordt gehouden op twee dagen, elk met een eigen invulling:
 Woensdag 2 juli: workshopdag en icebreakerparty<br>
 Donderdag 3 juli: het hart van de FOSS4G, de conferentiedag<br>
+Locatie: De Wageningen Campus,<a href='https://www.wur.nl/nl/waardecreatie-samenwerking/kom-naar-de-campus/omnia-8.htm'> Omnia</a> gebouw.</p><br>
 <br><br>
-Locatie: De Wageningen Campus,<a href='https://www.wur.nl/nl/waardecreatie-samenwerking/kom-naar-de-campus/omnia-8.htm'> Omnia</a> gebouw.</p><br>"
+Op dit moment is de Call for Presentations én workshops open. Heb je iets interessants dat je wil laten zien, of wil je een workshop verzorgen over een bepaalde toepassing in opensource-GIS, meld het aan via https://talks.osgeo.org/foss4gnl-2025/. Twijfel je? Je kan altijd even contact opnemen via foss4g@osgeo.nl.<br>
+"
 # aboutLogo:
 #  - { image: "", text: "logo foss4g 2025"}
 
