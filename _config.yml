@@ -46,12 +46,13 @@ rightNavigationButtons:
 
 # About Block (voor urls gebruik enkele aanhalingstekens  ' ' )
 aboutTitle: "Over FOSS4GNL 2025"
-aboutDescription: "In 2025 werken we samen met <a href='https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/faciliteiten-producten/geodesk.htm'>Geodesk Wageningen University & Research</a> en  <a href='https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm?_gl=1*12635kc*_up*MQ..*_ga*MjAyMTk3NzAzNi4xNzQ0NzA4MTQx*_ga_SZ1PQDSPJD*MTc0NDcwODE0MC4xLjEuMTc0NDcwODIyNS4wLjAuMA..''>Laboratorium voor Geo-informatiekunde en Remote Sensing</a> 
+aboutDescription: "Ook in 2025 is er weer een FOSS4GNL. Na vorig jaar op de bijzondere plek Baarle (Nassau én Hertog) samen met onze zuiderburen de eerste transnationale FOSS4G te hebben georganiseerd, zijn we dit jaar te gast in een van de geo-hoofdsteden van Nederland: Wageningen. In het schitterende nieuwe congrescentrum Omnia hebben we dit jaar een FOSS4GNL  op stand! <br><br>
+De organisatie is dit jaar in samenwerking met <a href='https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/faciliteiten-producten/geodesk.htm'>Geodesk Wageningen University & Research</a> en  <a href='https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm?_gl=1*12635kc*_up*MQ..*_ga*MjAyMTk3NzAzNi4xNzQ0NzA4MTQx*_ga_SZ1PQDSPJD*MTc0NDcwODE0MC4xLjEuMTc0NDcwODIyNS4wLjAuMA..''>Laboratorium voor Geo-informatiekunde en Remote Sensing</a> 
 <br><br>
-Woensdag 2 juli is de workshop dag en de icebreakerparty<br>
-Donderdag 3 juli het hart van de FOSS4G: de conferentiedag<br>
+Woensdag 2 juli: workshopdag en icebreakerparty<br>
+Donderdag 3 juli: het hart van de FOSS4G, de conferentiedag<br>
 <br><br>
-Dit jaar op echte conferentie locatie! : De Wageningen Campus,<a href='https://www.wur.nl/nl/waardecreatie-samenwerking/kom-naar-de-campus/omnia-8.htm'> Omnia</a> gebouw.</p><br>"
+Locatie: De Wageningen Campus,<a href='https://www.wur.nl/nl/waardecreatie-samenwerking/kom-naar-de-campus/omnia-8.htm'> Omnia</a> gebouw.</p><br>"
 # aboutLogo:
 #  - { image: "", text: "logo foss4g 2025"}
 
