@@ -11,7 +11,7 @@
         name: "GeoCat", 
         description: "", 
         link: "https://www.geocat.net/", 
-        imageUrl: "logo-geocat.png"
+        imageUrl: "geocat_logo_colour.svg"
       }
     - {
         name: "GeoSquare", 
