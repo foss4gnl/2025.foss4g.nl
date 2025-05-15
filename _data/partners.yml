@@ -19,6 +19,12 @@
         link: "https://www.geosquare.nl/", 
         imageUrl: "geosquare_Logo_RGB-cropped.svg"
       }  
+    - {
+        name: "Sogelink", 
+        description: "", 
+        link: "https://www.geodan.nl/", 
+        imageUrl: "Sogelinklogo.svg"
+      }
 -
   group: "Zilver"
   elements:
