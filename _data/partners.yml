@@ -48,4 +48,9 @@
         description: "", 
         link: "https://www.buro-regen-en-water.nl/", 
         imageUrl: "buroregenenwater.jpg"
+      }- {
+        name: "IDgis", 
+        description: "", 
+        link: "https://www.idgis.nl/", 
+        imageUrl: "ID_GIS_PMS.png"
       }
