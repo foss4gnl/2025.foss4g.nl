@@ -1,12 +1,12 @@
 - 
   group: "Goud"
   elements: 
-    # - {
-    #     name: "OpenGeoGroep", 
-    #     description: "", 
-    #     link: "https://www.opengeogroep.nl/", 
-    #     imageUrl: "logo-opengeogroep.svg"
-    #   }
+    - {
+        name: "OpenGeoGroep", 
+        description: "", 
+        link: "https://www.opengeogroep.nl/", 
+        imageUrl: "logo-opengeogroep.svg"
+      }
     - {
         name: "GeoCat", 
         description: "", 
