@@ -67,7 +67,7 @@ Let bij het bestellen van tickets voor de verschillende workshops even op of het
 # Statistic Block
 statisticBlockImage: "220512_216_Omnia.jpg"
 statisticBlock:
- - {count: "8", specialCharacter: "", info: "workshops", detail: ""}
+ - {count: "9", specialCharacter: "", info: "workshops", detail: ""}
  - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
  - {count: "45", specialCharacter: "", info: "sessies", detail: ""}
  - {count: "5", specialCharacter: "", info: "parallele tracks", detail: ""}
