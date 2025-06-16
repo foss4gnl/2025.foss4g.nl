@@ -107,7 +107,8 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
 To install all development dependencies install [Bundler](http://bundler.io/).
 ```bash
-    gem install bundler
+    sudo apt-get install ruby-full build-essential zlib1g-dev
+    gem install jekyll bundler
 ```
 and run next command from root folder:
 

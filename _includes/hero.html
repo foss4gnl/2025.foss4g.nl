@@ -1,22 +1,28 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.data.hero.image }}');">
+<section id="top-section-hero" class="top-section-hero top-section image-section"
+    style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.data.hero.image }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
-    <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.data.hero.title | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden"></h1>
-            <p>{{ site.data.hero.eventDate }}</p>
-             {% for button in site.data.hero.buttons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %} 
+        <div class="jumbotron">
+            <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+                {% assign heroText = site.data.hero.title | split:"<typeout>" %}
+
+                    <img style="background-color: rgba(255,255,255,0.3); padding: 2rem;  border-radius: 1rem; margin:1rem;"
+                        src="/img/logo2025.svg" />
+                    <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden"></h1>
+                    <p>{{ site.data.hero.eventDate }}</p>
+                    {% for button in site.data.hero.buttons %}
+                    <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}"
+                        class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link
+                        !=null %}target="_blank" {% endif %}>{{ button.text }}</a>
+                    {% endfor %}
+            </div>
         </div>
-    </div>
-    <a href="#about" class="explore">
-        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-        </svg>
-    </a>
+        <a href="#about" class="explore">
+            <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+            </svg>
+        </a>
     </div>
 </section>
 <!-- End Hero Section -->

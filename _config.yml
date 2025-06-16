@@ -37,12 +37,14 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Nieuws"}
 #  - {permalink: "/workshops/", text: "Workshops"}
-#  - {permalink: "/conference/", text: "Programma"}
+ - {link: "https://talks.osgeo.org/foss4gnl-2025/schedule/", text: "Programma"}
 #  - {permalink: "/photos/", text: "Foto's"}
-#  - {permalink: "/speakers/", text: "Sprekers"}
+ - {link: "https://pretix.eu/foss4gnl/2025/", text: "Tickets"}
+ - {link: "https://talks.osgeo.org/foss4gnl-2025/speaker/", text: "Sprekers"}
+
 
 rightNavigationButtons:
-  - {link: "https://talks.osgeo.org/foss4gnl-2025/", text: "CfP"}
+  - {link: "https://pretix.eu/foss4gnl/2025/", text: "Tickets"}
 
 # About Block (voor urls gebruik enkele aanhalingstekens  ' ' )
 aboutTitle: "Over FOSS4GNL 2025"
